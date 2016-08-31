@@ -47,3 +47,5 @@ E:\Web\SportsStore\SportsStore.UnitTests\bin\Debug\zh-Hans\Microsoft.VisualStudi
 E:\Web\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 E:\Web\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 E:\Web\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+E:\Web\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+E:\Web\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
